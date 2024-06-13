@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="towerdefense1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/p3/out/production/p3/towerdefense.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
